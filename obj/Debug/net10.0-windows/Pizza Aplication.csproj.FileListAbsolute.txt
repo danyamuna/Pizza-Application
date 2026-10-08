@@ -1,0 +1,19 @@
+D:\vs\Pizza Aplication\bin\Debug\net10.0-windows\Pizza Aplication.exe
+D:\vs\Pizza Aplication\bin\Debug\net10.0-windows\Pizza Aplication.deps.json
+D:\vs\Pizza Aplication\bin\Debug\net10.0-windows\Pizza Aplication.runtimeconfig.json
+D:\vs\Pizza Aplication\bin\Debug\net10.0-windows\Pizza Aplication.dll
+D:\vs\Pizza Aplication\bin\Debug\net10.0-windows\Pizza Aplication.pdb
+D:\vs\Pizza Aplication\obj\Debug\net10.0-windows\Pizza_Aplication.Form1.resources
+D:\vs\Pizza Aplication\obj\Debug\net10.0-windows\Pizza_Aplication.Properties.Resources.resources
+D:\vs\Pizza Aplication\obj\Debug\net10.0-windows\Pizza Aplication.csproj.GenerateResource.cache
+D:\vs\Pizza Aplication\obj\Debug\net10.0-windows\Pizza Aplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\Pizza Aplication\obj\Debug\net10.0-windows\Pizza Aplication.AssemblyInfoInputs.cache
+D:\vs\Pizza Aplication\obj\Debug\net10.0-windows\Pizza Aplication.AssemblyInfo.cs
+D:\vs\Pizza Aplication\obj\Debug\net10.0-windows\Pizza Aplication.csproj.CoreCompileInputs.cache
+D:\vs\Pizza Aplication\obj\Debug\net10.0-windows\Pizza Aplication.dll
+D:\vs\Pizza Aplication\obj\Debug\net10.0-windows\refint\Pizza Aplication.dll
+D:\vs\Pizza Aplication\obj\Debug\net10.0-windows\Pizza Aplication.pdb
+D:\vs\Pizza Aplication\obj\Debug\net10.0-windows\Pizza Aplication.genruntimeconfig.cache
+D:\vs\Pizza Aplication\obj\Debug\net10.0-windows\ref\Pizza Aplication.dll
+D:\vs\Pizza Aplication\obj\Debug\net10.0-windows\Pizza Ap.79374596.Up2Date
+D:\vs\Pizza Aplication\obj\Debug\net10.0-windows\Pizza_Aplication.Form2.resources
